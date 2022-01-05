@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
         #############################################
         #                                           #
-        #       Facebook BruteForce, by larteam      #
-        #       Contact: larteam606@gmail.com      #
+        #       Facebook BruteForce, by 0ssama      #
+        #       Contact: 0ssama@protonmail.com      #
         #                                           #
         #############################################
 
@@ -15,8 +15,11 @@ os.system('clear')
 time.sleep(0.5)
 try:
     import mechanize
+except ModuleNotFoundError:
+    print '[!] Module >Mechanize< Not Found!\n    This module is only available in python 2.x :/\n    Please install mechanize (pip install mechanize) and run the program with python2'
     exit()
 
+time.sleep(0.5)
 user = raw_input('[?] Target Username/ID/Email >>> ')
 time.sleep(0.8)
 wrdlstFileName = raw_input('\n[?] Wordlist Directory >>> ')
