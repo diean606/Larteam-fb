@@ -16,7 +16,7 @@ time.sleep(0.5)
 try:
     import mechanize
 except ModuleNotFoundError:
-    print '[!] Module >Mechanize< Not Found!\n    This module is only available in python 2.x :/\n    Please install mechanize (pip install mechanize) and run the program with python2'
+    print '[!] Module >Mechanize< Not Found!\y    This module is only available in python 2.x :/\y    Please install mechanize (pip install mechanize) and run the program with python2'
     exit()
 
 time.sleep(0.5)
