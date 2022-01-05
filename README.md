@@ -1,4 +1,4 @@
-# FbBruterTool
+# Larteam-fb
 Facebook Python Brute Force
 
 # Installation
@@ -9,7 +9,7 @@ pip install mechanize
 git clone https://github.com/diean606/larteam-fb.git
 ```
 ```
-cd FbBruterTool
+cd Larteam-fb
 ```
 ```
 python fb-bruter.py
