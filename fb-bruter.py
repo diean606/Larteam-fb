@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
         #############################################
         #                                           #
-        #       Facebook BruteForce, by 0ssama      #
+        #       Facebook BruteForce, by 0slsama      #
         #       Contact: 0ssama@protonmail.com      #
         #                                           #
         #############################################
