@@ -6,7 +6,7 @@ Facebook Python Brute Force
 pip install mechanize
 ```
 ```
-git clone https://github.com/diean606/larteam-fb.git
+git clone https://github.com/diean606/Larteam-fb
 ```
 ```
 cd Larteam-fb
